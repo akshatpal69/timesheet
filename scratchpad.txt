@@ -1,0 +1,9 @@
+DONE
+rating
+registerEmployee and manager
+authentication
+timesheet
+auth ui
+
+REMAINING
+data edit from
